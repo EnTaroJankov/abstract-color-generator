@@ -2,7 +2,7 @@
 
 Scala project to assign colors to multiplicative and additive integer groups and outputting an image file.
 
-@TODO Create GUI to input modify input parameters.
+@TODO Create GUI to modify input parameters.
 
 Example Output for Addition Group:
 
